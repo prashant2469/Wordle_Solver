@@ -1,1 +1,2 @@
 # Wordle_Solver
+This program will try to guess your Wordle word by either calling "./solver motif" which shows how many tries it takes the computer to guess motif(you can change the word to your liking). Another way of running is to call ./solver and the computer puts out a guess and you determine if it is gray, yellow, green, and the computer creates a new guess with your inputs until it finds the correct one.  
